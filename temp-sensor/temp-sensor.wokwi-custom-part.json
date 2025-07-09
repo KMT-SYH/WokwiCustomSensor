@@ -1,0 +1,9 @@
+{
+  "name": "TempSensor",
+  "script": "temp-sensor.js",
+  "pins": [
+    { "name": "VCC", "number": 1, "type": "power" },
+    { "name": "GND", "number": 2, "type": "ground" },
+    { "name": "DATA", "number": 3, "type": "output" }
+  ]
+}
